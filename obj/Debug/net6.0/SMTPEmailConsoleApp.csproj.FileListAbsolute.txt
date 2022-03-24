@@ -1,0 +1,15 @@
+D:\EmailConsoleApp\SMTPEmailConsoleApp\bin\Debug\net6.0\SMTPEmailConsoleApp.exe
+D:\EmailConsoleApp\SMTPEmailConsoleApp\bin\Debug\net6.0\SMTPEmailConsoleApp.deps.json
+D:\EmailConsoleApp\SMTPEmailConsoleApp\bin\Debug\net6.0\SMTPEmailConsoleApp.runtimeconfig.json
+D:\EmailConsoleApp\SMTPEmailConsoleApp\bin\Debug\net6.0\SMTPEmailConsoleApp.dll
+D:\EmailConsoleApp\SMTPEmailConsoleApp\bin\Debug\net6.0\SMTPEmailConsoleApp.pdb
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.csproj.AssemblyReference.cache
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.AssemblyInfoInputs.cache
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.AssemblyInfo.cs
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.csproj.CoreCompileInputs.cache
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.dll
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\refint\SMTPEmailConsoleApp.dll
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.pdb
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\SMTPEmailConsoleApp.genruntimeconfig.cache
+D:\EmailConsoleApp\SMTPEmailConsoleApp\obj\Debug\net6.0\ref\SMTPEmailConsoleApp.dll
